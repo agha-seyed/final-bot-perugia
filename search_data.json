@@ -1,0 +1,32 @@
+{
+    "accommodations": [
+        {
+            "id": 1,
+            "title": "1-Bedroom Apartment",
+            "price": 500,
+            "location": "Centro, Perugia",
+            "description": "A cozy 1-bedroom apartment in the city center."
+        },
+        {
+            "id": 2,
+            "title": "Shared Room",
+            "price": 250,
+            "location": "San Sisto, Perugia",
+            "description": "Affordable shared room near the university."
+        }
+    ],
+    "courses": [
+        {
+            "id": 1,
+            "title": "Italian Language Course",
+            "duration": "3 months",
+            "description": "Learn Italian with our intensive 3-month course."
+        },
+        {
+            "id": 2,
+            "title": "Data Science Bootcamp",
+            "duration": "6 months",
+            "description": "Master data science with hands-on projects and mentorship."
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "regions": [
+        {
+            "id": 1,
+            "location": "Perugia",
+            "message": "Don't miss the 'Umbria Jazz Festival' this weekend in Perugia!"
+        },
+        {
+            "id": 2,
+            "location": "Rome",
+            "message": "Explore the 'Colosseum Night Tour' happening this Friday in Rome!"
+        }
+    ]
+}

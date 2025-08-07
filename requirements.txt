@@ -1,0 +1,8 @@
+# Generated using pip-tools
+python-telegram-bot==21.4
+fastapi==0.115.0
+uvicorn==0.30.6
+asyncpg==0.29.0
+sqlalchemy==2.0.31
+redis[hiredis]==5.0.8
+# Additional dependencies...

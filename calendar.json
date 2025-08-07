@@ -1,0 +1,14 @@
+[
+    {
+        "id": 1,
+        "title": "Course Registration Deadline",
+        "date": "2025-08-15",
+        "description": "Deadline for registering for the upcoming semester courses."
+    },
+    {
+        "id": 2,
+        "title": "Orientation Day",
+        "date": "2025-09-01",
+        "description": "Welcome and orientation for new students."
+    }
+]

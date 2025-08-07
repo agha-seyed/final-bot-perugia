@@ -1,0 +1,9 @@
+{
+  "version": "1.0",
+  "costs": {
+    "rent": "300-500 EUR/month",
+    "food": "150-250 EUR/month",
+    "transportation": "30-50 EUR/month",
+    "utilities": "50-100 EUR/month"
+  }
+}

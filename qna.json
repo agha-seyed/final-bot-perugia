@@ -1,0 +1,16 @@
+{
+    "questions": {
+        "What is the cost of living in Perugia?": "The average cost of living in Perugia is around €800-€1000 per month.",
+        "How can I register for courses?": "You can register for courses through the university portal or contact the administration."
+    },
+    "knowledge": [
+        {
+            "question": "How to find accommodation in Perugia?",
+            "answer": "You can find accommodation through local agencies, Facebook groups, or university housing."
+        },
+        {
+            "question": "What are the best places to eat in Perugia?",
+            "answer": "Some popular places to eat in Perugia include Osteria A Priori, La Taverna, and Pizzeria Mediterranea."
+        }
+    ]
+}

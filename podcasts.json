@@ -1,0 +1,16 @@
+{
+    "podcasts": [
+        {
+            "id": 1,
+            "title": "Introduction to Perugia",
+            "url": "https://example.com/podcasts/perugia-intro.mp3",
+            "description": "Learn about the history and culture of Perugia in this introductory podcast."
+        },
+        {
+            "id": 2,
+            "title": "Budgeting Tips for Students",
+            "url": "https://example.com/podcasts/student-budgeting.mp3",
+            "description": "Practical tips on managing your finances as a student in Perugia."
+        }
+    ]
+}

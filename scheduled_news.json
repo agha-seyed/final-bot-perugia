@@ -1,0 +1,14 @@
+[
+    {
+        "id": 1,
+        "title": "Course Registration Deadline",
+        "message": "Don't forget to register for your courses before the deadline!",
+        "schedule_time": "2025-08-15 09:00:00"
+    },
+    {
+        "id": 2,
+        "title": "Orientation Day",
+        "message": "Reminder: Orientation Day is on September 1st at 10:00 AM!",
+        "schedule_time": "2025-08-30 12:00:00"
+    }
+]

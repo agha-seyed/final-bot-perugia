@@ -1,0 +1,16 @@
+{
+    "videos": [
+        {
+            "id": 1,
+            "title": "How to Register for Courses",
+            "url": "https://www.youtube.com/watch?v=example1",
+            "description": "Step-by-step guide on how to register for courses at the university."
+        },
+        {
+            "id": 2,
+            "title": "Exploring Perugia",
+            "url": "https://www.youtube.com/watch?v=example2",
+            "description": "A virtual tour of the city and its main attractions."
+        }
+    ]
+}
