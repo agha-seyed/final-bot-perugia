@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Analytics Dashboard</title>
+    <link rel="stylesheet" href="/static/styles.css">
+</head>
+<body>
+    <h1>📊 Analytics Dashboard</h1>
+    <section>
+        <h2>Daily Active Users</h2>
+        <table>
+            <thead>
+                <tr>
+                    <th>Date</th>
+                    <th>Active Users</th>
+                </tr>
+            </thead>
+            <tbody>
+                {% for row in daily_users %}
+                <tr>
+                    <td>{{ row['date'] }}</td>
+                    <td>{{ row['active_users'] }}</td>
+                </tr>
+                {% endfor %}
+            </tbody>
+        </table>
+    </section>
+
+    <section>
+        <h2>Top Commands</h2>
+        <table>
+            <thead>
+                <tr>
+                    <th>Command</th>
+                    <th>Usage Count</th>
+                </tr>
+            </thead>
+            <tbody>
+                {% for command in popular_commands %}
+                <tr>
+                    <td>{{ command['command'] }}</td>
+                    <td>{{ command['count'] }}</td>
+                </tr>
+                {% endfor %}
+            </tbody>
+        </table>
+    </section>
+</body>
+</html>
