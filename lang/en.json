@@ -1,0 +1,6 @@
+{
+  "start_message": "Welcome to StudentBot! Please select your language.",
+  "help_message": "How can I assist you today?",
+  "admin_panel": "Welcome to the Admin Panel.",
+  "error_message": "An error occurred. Please try again later."
+}
